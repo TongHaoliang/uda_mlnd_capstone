@@ -13,4 +13,6 @@ numpy,matplotlib,keras,tensor-flow
 ### 运行所需时间：
 在aws P2_Xlarge上约15小时（每个模型每轮1小时，每模型2-3轮，共6个模型）
 
-最终获得了0.187的Kaggle private Score，可以排到全部1440多名参赛团队的前50名
+
+------
+最终获得了0.187的Kaggle private Score，相当于全部1440多名参赛团队的前50名
